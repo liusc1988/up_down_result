@@ -1,0 +1,4 @@
+#Term	ID	Input number	Background number	P-Value	Corrected P-Value
+Phenylalanine metabolism	ath00360	18	114	9.65E-07	8.20E-05
+Phenylpropanoid biosynthesis	ath00940	20	154	3.73E-06	0.000158504
+Plant hormone signal transduction	ath04075	27	271	8.00E-06	0.000226566
